@@ -4,4 +4,5 @@
 <br/>
 <p>Rust casino wheel game, sort of</p>
 <a href="https://codmitu.github.io/spin-the-wheel/">Spin the Wheel link</a>
+<br/>
 ![Spin the Wheel gif](https://github.com/codmitu/random-projects/blob/main/media-files/wheel.gif)
