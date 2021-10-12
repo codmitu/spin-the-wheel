@@ -8,3 +8,4 @@
 ![Spin the Wheel gif](https://s9.gifyu.com/images/wheel3392e89d950d08a6.gif)
 <br/>
 ![Wheel-jpg](https://raw.githubusercontent.com/codmitu/random-projects/main/media-files/spin-the-wheel.jpg)
+<img src="https://raw.githubusercontent.com/codmitu/random-projects/main/media-files/spin-the-wheel.jpg" alt="app image" /> 
