@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/spin-the-wheel/static/css/main.5fa69afe.chunk.css",
-    "main.js": "/spin-the-wheel/static/js/main.1a5e6733.chunk.js",
-    "main.js.map": "/spin-the-wheel/static/js/main.1a5e6733.chunk.js.map",
+    "main.js": "/spin-the-wheel/static/js/main.1c3e9a85.chunk.js",
+    "main.js.map": "/spin-the-wheel/static/js/main.1c3e9a85.chunk.js.map",
     "runtime-main.js": "/spin-the-wheel/static/js/runtime-main.daf0789c.js",
     "runtime-main.js.map": "/spin-the-wheel/static/js/runtime-main.daf0789c.js.map",
     "static/js/2.6ee5a066.chunk.js": "/spin-the-wheel/static/js/2.6ee5a066.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.daf0789c.js",
     "static/js/2.6ee5a066.chunk.js",
     "static/css/main.5fa69afe.chunk.css",
-    "static/js/main.1a5e6733.chunk.js"
+    "static/js/main.1c3e9a85.chunk.js"
   ]
 }
